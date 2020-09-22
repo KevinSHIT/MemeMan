@@ -4,8 +4,8 @@ This is a place to record Meme's vocabulary list and etc.
 
 ## Images
 
-| Id | Img | Id | Img | Id | Img | Id | Img | Id |
-| -- | --- | -- | --- | -- | --- | -- | --- | -- |
+| Id | Img | Id | Img | Id | Img | Id | Img | Id | Img |
+| -- | --- | -- | --- | -- | --- | -- | --- | -- | --- |
 | 0 | ![0](img/png/0.png) | 1 | ![1](img/png/1.png) | 2 | ![2](img/png/2.png) | 3 | ![3](img/png/3.png) | 4 | ![4](img/png/4.png) |
 | 5 | ![5](img/png/5.png) | 6 | ![6](img/png/6.png) | 7 | ![7](img/png/7.png) | 8 | ![8](img/png/8.png) | 9 | ![9](img/png/9.png) |
 | 10 | ![10](img/png/10.png) | 11 | ![11](img/png/11.png) | 12 | ![12](img/png/12.png) | 13 | ![13](img/png/13.png) | 14 | ![14](img/png/14.png) |
