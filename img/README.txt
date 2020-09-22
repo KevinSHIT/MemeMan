@@ -1,0 +1,1 @@
+Refer: https://t.me/addstickers/MemeManMemesta
