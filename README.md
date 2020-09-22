@@ -2,6 +2,14 @@
 
 This is a place to record Meme's vocabulary list and etc.
 
+## Videos
+
+- YouTube
+  - [Timotainment](https://www.youtube.com/channel/UC2sZyDm1FqBWrWiCiAuI2Ug)
+- Bilibili
+  - [Meme Man合集（持续更新）](https://www.bilibili.com/video/BV1MW411h7tJ)
+  - [meme man 合集更新至105P](https://www.bilibili.com/video/BV1xJ411v7TK)
+
 ## Images
 
 | Id | Img | Id | Img | Id | Img | Id | Img | Id | Img |
